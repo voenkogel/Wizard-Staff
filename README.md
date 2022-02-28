@@ -1,16 +1,3 @@
-# kutten_met_flutter
+As a new year’s resolution, I tried native android and iOS app development using the Flutter framework. Within a month, me and Max Pijnappel designed and developed the application from scratch, in ideation, design and development phases, using a variety of tools. We then exported the application to both Android and iOS, where it can be found on the respective app stores.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Wizard Staff is a student drinking game, where the goal is to create a tall Wizard Staff by stacking empty beer cans on top of each other. The app features an interactive graph, statistics, customizability, a tutorial and offline serialization.
